@@ -1,3 +1,7 @@
+[中文版](./README_CN.md) | [English](./README.md)
+
+---
+
 # MindWall 🧠🧱
 
 **"Malicious Elegance: A deterministic defense against LLM prompt injection."**
