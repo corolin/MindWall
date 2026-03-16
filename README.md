@@ -1,6 +1,6 @@
 # MindWall 🧠🧱
 
-[![Language](https://img.shields.io/badge/language-中文-blue.svg)](./README_CN.md)
+[![Language](https://img.shields.io/badge/language-中文-blue.svg)](./README.zh-CN.md)
 [![Language](https://img.shields.io/badge/language-English-red.svg)](./README.md)
 
 **"Malicious Elegance: A deterministic defense against LLM prompt injection."**
